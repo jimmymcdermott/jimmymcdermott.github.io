@@ -6,10 +6,10 @@
 name: James McDermott
 
 # Short bio or description (displayed in the header)
-description: Software Engineer
+description: Software Developer from Pittsburgh
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars0.githubusercontent.com/u/590825?v=3&u=1cb3df70c9e2f42c696a6f98e5056967f7ab6b16&s=400
+avatar: https://avatars1.githubusercontent.com/u/590825
 
 #
 # Flags below are optional
@@ -18,7 +18,7 @@ avatar: https://avatars0.githubusercontent.com/u/590825?v=3&u=1cb3df70c9e2f42c69
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: mcdermott.jimmy+github@gmail.com
   facebook:
   flickr:
   github: jimmymcdermott
